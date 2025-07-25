@@ -1,10 +1,5 @@
 
 
-|                                      学习讨论小组🍻                                      |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    | 
-|:----------------------------------------------------------------------------------:|:---------------------------------------------------------------------:| 
-| ![CcView.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/CcView.png) |     ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png)  |
-
-
 
 # CcView
 
